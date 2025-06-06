@@ -1,7 +1,8 @@
 # Your Buddy
 
 A fun web application where users can chat with their virtual "buddy" - a friendly AI companion that speaks in casual slang and knows personal details about you, but is hilariously clueless about general knowledge.
-
+# Preview
+![Chat View](my_buddy_preview.JPG)
 ## Features
 
 - Chat interface with a friendly AI buddy
